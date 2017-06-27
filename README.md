@@ -5,9 +5,9 @@
 - [HTML5 Canvas核心技术](https://book.douban.com/subject/24533314/)
 
 #### 问题：
-- 浏览器渲染原理
+- 浏览器渲染原理
 - local stroage / session stroage / cookie / session
-- 离线应用 & 本地化
+- 离线应用 & 本地化
 - Web Worker
 - websoket
 - 前端路由实现（histroy api / hash tag）
@@ -24,12 +24,12 @@
 #### 问题：
 - 基础
   - 两栏、三栏自适应布局
-  - 保持容器宽高比（rem/em/vh/vw/padding）
+  - 保持容器宽高比（rem/em/vh/vw/padding）
   - 水平/垂直居中
   - [流体特性和BFC](http://www.zhangxinxu.com/wordpress/2015/02/css-deep-understand-flow-bfc-column-two-auto-layout/)
   - 浮动和清除浮动
   - 盒模型（低版本IE），border-box
-  - 实现三角形、1/4圆形
+  - 实现三角形、1/4圆形
   - [字号与行高](http://www.renfed.com/2017/06/13/font-size-line-height/)
   - 实现百度图片每列等宽
 
@@ -53,7 +53,7 @@
 - [你不知道的JavaScript（上卷）](https://book.douban.com/subject/26351021/)
 - [你不知道的JavaScript（中卷）](https://book.douban.com/subject/26854244/)
 - [JavaScript设计模式与开发实践](https://book.douban.com/subject/26382780/)
-- [深入浅出React和Redux](https://book.douban.com/subject/27033213/)
+- [深入浅出React和Redux](https://book.douban.com/subject/27033213/)
 
 #### blog: 
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
@@ -62,7 +62,7 @@
 - ECMAScript 6
   - 有哪些新特性
   - 箭头函数this、arguments
-  - Iterator与for...of关系（symbol.iterator）
+  - Iterator与for...of关系（symbol.iterator）
   - Promise原理，race/all方法
   - generator与async
   - Proxy如何监测数组下标变动
@@ -77,13 +77,13 @@
   - [Promise的队列与setTimeout的队列有何关联](https://www.zhihu.com/question/36972010)
   - [valueOf与toString](http://www.cnblogs.com/rubylouvre/archive/2010/10/01/1839748.html)
   - 手动实现bind
-  - 判断一个对象是数组、类数组转数组、求交集并集
+  - 判断一个对象是数组、类数组转数组、求交集并集
   - ECMA标准
   - instance of 原理
 
 - 框架 
   - [Vue.js 源码学习](http://jiongks.name/blog/vue-code-review/)
-  - [Vue对比其他框架](http://cn.vuejs.org/v2/guide/comparison.html)
+  - [Vue对比其他框架](http://cn.vuejs.org/v2/guide/comparison.html)
   - [剖析Vue原理&实现双向绑定MVVM](https://segmentfault.com/a/1190000006599500)
   - [解析vue2.0的diff算法](https://github.com/aooy/blog/issues/2)
   - 大型单页面应用优化
@@ -122,7 +122,7 @@
 - HTTP
   - URI、方法、状态码、部首
   - [Web缓存机制](http://www.alloyteam.com/2012/03/web-cache-1-web-cache-overview/)
-  - HTTPS原理（握手、非对称/对称加密）
+  - HTTPS原理（握手、非对称/对称加密）
   - [HTTP2.0的奇妙日常](http://www.alloyteam.com/2015/03/http2-0-di-qi-miao-ri-chang/)
   - 用 fiddler 捕获 https 请求
 
@@ -143,7 +143,7 @@
 
 
 
-## 工程
+## 工程
 - 性能优化
   - [阿里无线前端性能优化指南](https://github.com/amfe/article/issues/1)
 
