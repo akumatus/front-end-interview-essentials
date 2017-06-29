@@ -28,7 +28,7 @@
   - 水平/垂直居中
   - [流体特性和BFC](http://www.zhangxinxu.com/wordpress/2015/02/css-deep-understand-flow-bfc-column-two-auto-layout/)
   - 浮动和清除浮动
-  - 盒模型（低版本IE），border-box
+  - 盒模型（低版本IE）、border-box
   - 实现三角形、1/4圆形
   - [字号与行高](http://www.renfed.com/2017/06/13/font-size-line-height/)
   - 实现百度图片每列等宽
@@ -68,6 +68,7 @@
   - Proxy如何监测数组下标变动
   - Class与单例
   - module与commonjs区别
+  - weakmap、weakset与gc
 
 - JS基础
   - 闭包产生原因
